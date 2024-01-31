@@ -1,0 +1,22 @@
+C:\Users\Win10\Desktop\c# uygulamalar\film_fragman_uygulaması\film_fragman_uygulaması\bin\Debug\film_fragman_uygulaması.exe.config
+C:\Users\Win10\Desktop\c# uygulamalar\film_fragman_uygulaması\film_fragman_uygulaması\bin\Debug\film_fragman_uygulaması.exe
+C:\Users\Win10\Desktop\c# uygulamalar\film_fragman_uygulaması\film_fragman_uygulaması\bin\Debug\film_fragman_uygulaması.pdb
+C:\Users\Win10\Desktop\c# uygulamalar\film_fragman_uygulaması\film_fragman_uygulaması\obj\Debug\film_fragman_uygulaması.csproj.AssemblyReference.cache
+C:\Users\Win10\Desktop\c# uygulamalar\film_fragman_uygulaması\film_fragman_uygulaması\obj\Debug\film_fragman_uygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\Win10\Desktop\c# uygulamalar\film_fragman_uygulaması\film_fragman_uygulaması\obj\Debug\film_fragman_uygulaması.Form1.resources
+C:\Users\Win10\Desktop\c# uygulamalar\film_fragman_uygulaması\film_fragman_uygulaması\obj\Debug\film_fragman_uygulaması.Properties.Resources.resources
+C:\Users\Win10\Desktop\c# uygulamalar\film_fragman_uygulaması\film_fragman_uygulaması\obj\Debug\film_fragman_uygulaması.csproj.GenerateResource.cache
+C:\Users\Win10\Desktop\c# uygulamalar\film_fragman_uygulaması\film_fragman_uygulaması\obj\Debug\film_fragman_uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Win10\Desktop\c# uygulamalar\film_fragman_uygulaması\film_fragman_uygulaması\obj\Debug\film_fragman_uygulaması.exe
+C:\Users\Win10\Desktop\c# uygulamalar\film_fragman_uygulaması\film_fragman_uygulaması\obj\Debug\film_fragman_uygulaması.pdb
+C:\Users\Win10\Desktop\DERS UYGULAMA\c# uygulamalar\film_fragman_uygulaması\film_fragman_uygulaması\bin\Debug\film_fragman_uygulaması.exe.config
+C:\Users\Win10\Desktop\DERS UYGULAMA\c# uygulamalar\film_fragman_uygulaması\film_fragman_uygulaması\bin\Debug\film_fragman_uygulaması.exe
+C:\Users\Win10\Desktop\DERS UYGULAMA\c# uygulamalar\film_fragman_uygulaması\film_fragman_uygulaması\bin\Debug\film_fragman_uygulaması.pdb
+C:\Users\Win10\Desktop\DERS UYGULAMA\c# uygulamalar\film_fragman_uygulaması\film_fragman_uygulaması\obj\Debug\film_fragman_uygulaması.csproj.AssemblyReference.cache
+C:\Users\Win10\Desktop\DERS UYGULAMA\c# uygulamalar\film_fragman_uygulaması\film_fragman_uygulaması\obj\Debug\film_fragman_uygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\Win10\Desktop\DERS UYGULAMA\c# uygulamalar\film_fragman_uygulaması\film_fragman_uygulaması\obj\Debug\film_fragman_uygulaması.Form1.resources
+C:\Users\Win10\Desktop\DERS UYGULAMA\c# uygulamalar\film_fragman_uygulaması\film_fragman_uygulaması\obj\Debug\film_fragman_uygulaması.Properties.Resources.resources
+C:\Users\Win10\Desktop\DERS UYGULAMA\c# uygulamalar\film_fragman_uygulaması\film_fragman_uygulaması\obj\Debug\film_fragman_uygulaması.csproj.GenerateResource.cache
+C:\Users\Win10\Desktop\DERS UYGULAMA\c# uygulamalar\film_fragman_uygulaması\film_fragman_uygulaması\obj\Debug\film_fragman_uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Win10\Desktop\DERS UYGULAMA\c# uygulamalar\film_fragman_uygulaması\film_fragman_uygulaması\obj\Debug\film_fragman_uygulaması.exe
+C:\Users\Win10\Desktop\DERS UYGULAMA\c# uygulamalar\film_fragman_uygulaması\film_fragman_uygulaması\obj\Debug\film_fragman_uygulaması.pdb
